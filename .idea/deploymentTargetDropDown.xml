@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="BottomNavigationItemPreview">
+        <State />
+      </entry>
+      <entry key="HomeShimmerPreview">
+        <State />
+      </entry>
+      <entry key="MainActivity">
+        <State />
+      </entry>
+      <entry key="NetflixBottomNavigationPreview">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Medium_Phone_API_TiramisuPrivacySandbox_14.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-05-25T09:26:28.235347Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
